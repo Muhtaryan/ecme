@@ -1,2 +1,0 @@
-# ecme
-ecme theme
